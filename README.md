@@ -22,8 +22,4 @@ The dataset is to maintain the data used to generate celebrities’ commercial v
 •	Each celebrity may get the same award in one or more years.
 •	Each celebrity may have multiple news related to zero on many topics.
 
-# Some Visualization Plots 
-* fake data
-![Nike_distribution](https://github.com/YannisCS/Celebrity-Database-for-Brand-Endorsement/assets/34790986/85c573b8-1040-499a-9989-507d9efad383)
-![visualization_BrandType](https://github.com/YannisCS/Celebrity-Database-for-Brand-Endorsement/assets/34790986/5b34ab83-b9e1-4bd8-9678-384375a53d82)
-<img width="867" alt="visualization_commercial_post" src="https://github.com/YannisCS/Celebrity-Database-for-Brand-Endorsement/assets/34790986/0340b6a9-fd3e-4236-b140-2cb744deb4b3">
+** fake data**
