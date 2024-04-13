@@ -22,4 +22,4 @@ The dataset is to maintain the data used to generate celebrities’ commercial v
 •	Each celebrity may get the same award in one or more years.
 •	Each celebrity may have multiple news related to zero on many topics.
 
-** fake data**
+**fake data, not true**
